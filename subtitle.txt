@@ -1,0 +1,72 @@
+[SOUND] Hello,
+welcome to Oracle APEX Foundations course, Getting Started with Oracle APEX module
+Low Code Application Development lesson. My name is Chaitanya, I'm a product manager on the Oracle APEX
+product development team. Oracle APEX is the world's most popular
+low-code application development platform for enterprise applications. Using APEX you can build applications 20
+times faster with 100 times less score. So all excited to learn
+what low-code is and low-code application
+development with Oracle APEX. Let's get started. In this lesson you are introduced to
+low-code application development. First we review the challenges
+that everyone faces with application development in an enterprise. You are then introduced to
+low-code application development. And finally, you learn the benefits
+of low-code application development. Let us start with a quick introduction
+to the application development challenges that everyone
+faces in every enterprise. Application development in
+an enterprise can be too expensive. Every line of code you write,
+there is a cost associated with it, to author, to debug, to review or
+to tune, to manage or to upgrade. The bigger the task, the more people
+involved, the greater complexity, the more overhead. Full stack developers are expensive, too. Application development in
+an enterprise can be too slow. Your development processes need to
+be able to adapt to ever changing business requirements. The days of waterfall
+development are over. If you are not iterative and flexible,
+then you are not on time, and you will not be able to
+meet your business needs. There is minimal collaboration
+between the developers, project managers,
+business users, and end users. End users represented by the business
+users, business users work with the analysts to gather requirements,
+requirements fed to IT managers. IT managers give requirements to
+developers and then they finally build. So there is no easy partnership. There is always a significant
+application backlog in an enterprise. Enhancements to existing
+applications are not being done, new applications are not being created,
+and especially the small problems
+are never being attacked. It is too expensive to dedicate
+resources on these small problems and the too expensive resources to
+dedicate on these small problems. So applications are never written for
+them. Now let us understand what is
+a local development platform. From Wikipedia, a low-code development
+platform provides a development environment used to create application
+software through a graphical user interface instead of traditional
+hand-coded computer programming. Low-code applications or
+applications developed with minimal hand coding, visual drag and
+drop style development, and low-code applications are web and
+mobile friendly. So what is low-code? Low-code is fast to get started with. It is easy on-ramp. You don't have to be an expert to
+start building applications using a low-code application
+development platform. Low-code is very productive. With minimal effort you can employ
+feature-rich components in an application. Low-code is accessible to more
+than just the highly trained and expensive stack developer. Low-code broadens the pool of
+people in your organization who can solve business problems. Low-code is scalable. Most of the low-code applications
+generally start small and then grow in complexity and
+breadth of functionality. Low-code solutions are extensible, so you
+are not constrained by the box you are in. Every business has custom requirements,
+custom rules, and custom business flows, and functionality that is not
+provided out of the box can always be included in the form of integrations,
+plugins, and custom code. Low code solutions are about
+delivering rich functionality to your end users with minimal effort and
+minimal code. So rich functionality with less code or
+doing more with less. Now that you have a good
+idea about low-code, let us understand why use low-code. With low-code solutions, it takes
+less effort to build applications, and so you can deliver much faster
+than competing technologies. With low-code you can deliver much
+higher quality applications, and these frameworks promote consistency
+across the developed applications. The hallmark of low-code is
+focus on business requirements, not on mundane programming. More people are able to participate and help contribute solutions
+to the IT backlog. So without question,
+with low-code you ultimately reduce costs. Less code, less time,
+less work results in less cost. With low-code,
+developers do not need to write code for things like interacting with the database,
+managing session state and more. Therefore they can concentrate
+on solving the business issues. In this lesson, you learned the challenges of application
+development in an enterprise. You understood what low-code
+application development is. And you also learn the benefits of
+low-code application development. This concludes the lesson on
+low-code application development. I hope you find that useful. Thank you so much for watching.
